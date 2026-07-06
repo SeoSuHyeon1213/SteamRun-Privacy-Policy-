@@ -12,7 +12,7 @@ Third-Party Services (modified if applicable) This app does not use [Advertising
 
 If you have any questions regarding the protection of your contact personal information, please contact us below.
 
-이메일: giornogiobana1234@gmail.com
+e mail : giornogiobana1234@gmail.com
 
 Terms and Conditions Article 1 (Purpose) The purpose of this Agreement is to prescribe the conditions and procedures for use of the mobile game "[SteamRun]" (hereinafter referred to as the "Service") and related services provided by the developer/team name.
 
